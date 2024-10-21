@@ -1,6 +1,6 @@
 # Atur RupiahKu
 
-**Atur RupiahKu** adalah aplikasi manajemen keuangan yang dirancang untuk membantu masyarakat Indonesia dalam mengelola keuangan pribadi dengan lebih efektif dan efisien.Dibangun dengan pendekatan statistika dan data sains, aplikasi ini menawarkan tiga fitur utama yang dirancang untuk memandu pengguna menuju kesejahteraan finansial. Kami percaya bahwa dengan pengelolaan keuangan yang baik adalah salah satu kunci untuk mendukung **visi Indonesia Emas 2045**- menjadi negara maju dengan ekonomi yang berkelanjutan, tangguh, dan inklusif. 
+**Atur RupiahKu** adalah aplikasi manajemen keuangan yang dirancang untuk membantu masyarakat Indonesia dalam mengelola keuangan pribadi dengan lebih efektif dan efisien. Dibangun dengan pendekatan statistika dan data sains, aplikasi ini menawarkan tiga fitur utama yang dirancang untuk memandu pengguna menuju kesejahteraan finansial. Kami percaya bahwa pengelolaan keuangan yang baik adalah salah satu kunci untuk mendukung **visi Indonesia Emas 2045** yaitu menjadi negara maju dengan ekonomi yang berkelanjutan, tangguh, dan inklusif. 
 
 ## Fitur Aplikasi
 
@@ -47,6 +47,7 @@ Tim **Atur RupiahKu** terdiri dari tiga mahasiswa Institut Teknologi Sepuluh Nop
 1. Fadhel - Mahasiswa S1 Sains Data
 2. Saeful Fikri - Mahasiswa S1 Statistika 
 3. Abdillah Ilham - Mahasiswa S1 Statistika
+
 Kami berkomitmen untuk menciptakan solusi berbasis teknologi yang membantu pengguna dalam mencapai kesejahteraan finansial.
 
 Jelajahi repositori kami untuk informasi lebih lanjut:
