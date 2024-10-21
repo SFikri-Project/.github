@@ -26,7 +26,6 @@ Fitur ini menyediakan berbagai video edukasi keuangan yang interaktif dan mudah 
 
 Fitur ini bertujuan untuk meningkatkan literasi keuangan masyarakat Indonesia, sekaligus membuka lapangan pekerjaan baru bagi konsultan keuangan yang ingin bergabung dalam platform kami.
 
-[Explore repo untuk fitur ini](https://github.com/AturRupiahKu/edukasi-keuangan)
 
 ## Dampak dan Kontribusi
 Aplikasi **Atur RupiahKu** tidak hanya membantu masyarakat Indonesia dalam mengelola keuangan, tetapi juga mendukung tercapainya target ekonomi **Indonesia Emas 2045** dengan:
@@ -40,7 +39,7 @@ Kami berkomitmen untuk terus mengembangkan aplikasi ini demi meningkatkan keseja
 
 Berikut adalah tampilan UI dari aplikasi Atur RupiahKu. Anda dapat melihatnya secara lengkap di PDF berikut:
 
-[Tampilkan UI dalam PDF](https://github.com/Atur-RupiahKu/Atur-RupiahKu/blob/main/Atur%20RupiahKu%20Mockup.pdf)
+[Tampilan UI](https://github.com/Atur-RupiahKu/Atur-RupiahKu/blob/main/Atur%20RupiahKu%20Mockup.pdf)
 
 ## Tentang Kami
 Tim **Atur RupiahKu** terdiri dari profesional di bidang teknologi dan keuangan yang berkomitmen untuk memberikan solusi keuangan praktis dan relevan bagi masyarakat Indonesia. Kami percaya bahwa dengan teknologi yang tepat, setiap orang bisa mengelola keuangan mereka dengan lebih baik dan mendukung pembangunan ekonomi nasional.
