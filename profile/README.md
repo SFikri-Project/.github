@@ -1,6 +1,6 @@
 # Atur RupiahKu
 
-**Atur RupiahKu** adalah aplikasi yang dirancang untuk membantu masyarakat Indonesia dalam mengelola keuangan pribadi dengan lebih efektif dan efisien. Kami percaya bahwa pengelolaan keuangan yang baik adalah kunci untuk mendukung **visi Indonesia Emas 2045**: menjadi negara maju dengan ekonomi yang berkelanjutan, tangguh, dan inklusif. Literasi keuangan yang rendah di Indonesia dapat berpotensi menimbulkan masalah ekonomi di masa depan, baik secara pribadi maupun nasional. Oleh karena itu, **Atur RupiahKu** hadir sebagai solusi untuk meningkatkan literasi keuangan masyarakat serta mendukung stabilitas keuangan pribadi dan nasional.
+**Atur RupiahKu** adalah aplikasi manajemen keuangan yang dirancang untuk membantu masyarakat Indonesia dalam mengelola keuangan pribadi dengan lebih efektif dan efisien.Dibangun dengan pendekatan statistika dan data sains, aplikasi ini menawarkan tiga fitur utama yang dirancang untuk memandu pengguna menuju kesejahteraan finansial. Kami percaya bahwa dengan pengelolaan keuangan yang baik adalah salah satu kunci untuk mendukung **visi Indonesia Emas 2045**- menjadi negara maju dengan ekonomi yang berkelanjutan, tangguh, dan inklusif. 
 
 ## Fitur Aplikasi
 
@@ -43,7 +43,11 @@ Berikut adalah tampilan UI dari aplikasi Atur RupiahKu. Anda dapat melihatnya se
 <embed src="https://github.com/Atur-RupiahKu/Atur-RupiahKu/blob/main/Atur%20RupiahKu%20Mockup.pdf" width="800px" height="600px" />
 
 ## Tentang Kami
-Tim **Atur RupiahKu** terdiri dari profesional di bidang teknologi dan keuangan yang berkomitmen untuk memberikan solusi keuangan praktis dan relevan bagi masyarakat Indonesia. Kami percaya bahwa dengan teknologi yang tepat, setiap orang bisa mengelola keuangan mereka dengan lebih baik dan mendukung pembangunan ekonomi nasional.
+Tim **Atur RupiahKu** terdiri dari tiga mahasiswa Institut Teknologi Sepuluh Nopember (ITS) Surabaya sebagai berikut.
+1. Fadhel - Mahasiswa S1 Sains Data
+2. Saeful Fikri - Mahasiswa S1 Statistika 
+3. Abdillah Ilham - Mahasiswa S1 Statistika
+Kami berkomitmen untuk menciptakan solusi berbasis teknologi yang membantu pengguna dalam mencapai kesejahteraan finansial.
 
 Jelajahi repositori kami untuk informasi lebih lanjut:
 - [Forecasting Kondisi Keuangan](https://github.com/AturRupiahKu/forecasting-keuangan)
