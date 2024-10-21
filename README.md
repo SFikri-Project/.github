@@ -40,6 +40,7 @@ Kami berkomitmen untuk terus mengembangkan aplikasi ini demi meningkatkan keseja
 Berikut adalah tampilan UI dari aplikasi Atur RupiahKu. Anda dapat melihatnya secara lengkap di PDF berikut:
 
 [Tampilan UI](https://github.com/Atur-RupiahKu/Atur-RupiahKu/blob/main/Atur%20RupiahKu%20Mockup.pdf)
+<embed src="https://github.com/Atur-RupiahKu/Atur-RupiahKu/blob/main/Atur%20RupiahKu%20Mockup.pdf" width="800px" height="600px" />
 
 ## Tentang Kami
 Tim **Atur RupiahKu** terdiri dari profesional di bidang teknologi dan keuangan yang berkomitmen untuk memberikan solusi keuangan praktis dan relevan bagi masyarakat Indonesia. Kami percaya bahwa dengan teknologi yang tepat, setiap orang bisa mengelola keuangan mereka dengan lebih baik dan mendukung pembangunan ekonomi nasional.
