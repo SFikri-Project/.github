@@ -33,18 +33,16 @@ Aplikasi **Atur RupiahKu** tidak hanya membantu masyarakat Indonesia dalam menge
 - Membantu memprediksi kemampuan pembayaran pinjaman, sehingga mengurangi risiko gagal bayar.
 - Menciptakan lapangan kerja baru melalui fitur marketplace konsultan keuangan.
 
-Kami berkomitmen untuk terus mengembangkan aplikasi ini demi meningkatkan kesejahteraan masyarakat dan mendukung pertumbuhan ekonomi yang inklusif, berkelanjutan, dan tangguh.
-
 ## UI Tampilan Atur RupiahKu
 
-Berikut adalah tampilan UI dari aplikasi Atur RupiahKu. Anda dapat melihatnya secara lengkap di PDF berikut:
+Berikut adalah tampilan antarmuka (UI) dari aplikasi Atur RupiahKu. Anda dapat melihat detail lengkapnya dalam PDF berikut.:
 
 [Tampilan UI](https://github.com/Atur-RupiahKu/Atur-RupiahKu/blob/main/Atur%20RupiahKu%20Mockup.pdf)
 <embed src="https://github.com/Atur-RupiahKu/Atur-RupiahKu/blob/main/Atur%20RupiahKu%20Mockup.pdf" width="800px" height="600px" />
 
 ## Tentang Kami
 Tim **Atur RupiahKu** terdiri dari tiga mahasiswa Institut Teknologi Sepuluh Nopember (ITS) Surabaya sebagai berikut.
-1. Fadhel - Mahasiswa S1 Sains Data
+1. Fadhel Iqbal Hidayatullah - Mahasiswa S1 Sains Data
 2. Saeful Fikri - Mahasiswa S1 Statistika 
 3. Abdillah Ilham - Mahasiswa S1 Statistika
 
